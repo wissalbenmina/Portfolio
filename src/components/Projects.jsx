@@ -1,5 +1,4 @@
 import React from 'react'
-import proj1 from '../assets/proj1.png'
 import proj2 from '../assets/proj2.png'
 import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/proj4.png'
@@ -19,7 +18,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>ATM</span>
                 <p className='text-white text-center px-8 py-4'>Node.js ATM simulation for basic banking operations.</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/ATM" target="_blank">
+                    <a href="https://github.com/wissalbenmina/ATM" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
@@ -31,7 +30,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>City Temperature</span>
                 <p className='text-white text-center px-8 py-4'>Provide real-time temperature updates for various cities.</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/cityTemperature" target="_blank">
+                    <a href="https://github.com/wissalbenmina/cityTemperature" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
@@ -43,7 +42,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>Blog App</span>
                 <p className='text-white text-center px-8 py-4'>Manage posts and users, offering CRUD operations with authentication middleware.</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/BlogAppBackend" target="_blank">
+                    <a href="https://github.com/wissalbenmina/BlogAppBackend" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
@@ -55,7 +54,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>Multi Rooms</span>
                 <p className='text-white text-center px-8 py-4'>A real-time chat application that sends and displays messages instantly to recipients.</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/multi-room" target="_blank">
+                    <a href="https://github.com/wissalbenmina/multi-room" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
@@ -67,7 +66,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>E-commerce Web Site</span>
                 <p className='text-white text-center px-8 py-4'>An e-commerce website specializing in jewelry</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/jewelry-ecomm" target="_blank">
+                    <a href="https://github.com/wissalbenmina/jewelry-ecomm" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
@@ -79,7 +78,7 @@ const Projects = () => {
                 <span className='text-2xl font-bold text-white tracking-wider'>Recruitment Application</span>
                 <p className='text-white text-center px-8 py-4'>online recruitment application to streamline the online hiring process.</p>
                 <div className='text-center'>
-                    <a href="https://github.com/wissalbenmina/recruitment-site" target="_blank">
+                    <a href="https://github.com/wissalbenmina/recruitment-site" target="_blank" rel="noreferrer">
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View Code</button>
                     </a>
                 </div>
