@@ -34,13 +34,13 @@ const Contact = () => {
                     <div className='grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4'>
                         <div>
                             <div className='mt-2.5'>
-                                <input type="text" name='user_name' id='' placeholder='Your Name' className='bg-[#161616] w-full px-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#ff5f6d]'/>
+                                <input type="text" name='user_name' id='' placeholder='Your Name' className='bg-[#161616] w-full px-4 py-2 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#ff5f6d]'/>
                             </div>
                         </div>
 
                         <div>
                             <div className='mt-2.5'>
-                                <input type="text" name='user_email' id='' placeholder='Your Email' className='bg-[#161616] w-full px-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#ff5f6d]'/>
+                                <input type="text" name='user_email' id='' placeholder='Your Email' className='bg-[#161616] w-full px-4 py-2 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#ff5f6d]'/>
                             </div>
                         </div>
 

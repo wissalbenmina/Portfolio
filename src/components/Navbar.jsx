@@ -21,9 +21,9 @@ const Navbar = () => {
         {nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/>}
       </div>
 
-      <div className={nav ? 'fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500'
+      <div className={nav ? 'fixed h-full left-0 top-0 w-[40%] bg-[#202121] ease-in-out duration-500'
                               : 'fixed left-[-100%]'}>
-        <ul className='p-8 text-2xl'>
+        <ul className='p-8 text-xl'>
           <li className='p-2'><a href="#about">About</a></li>
           <li className='p-2'><a href="#projects">Projects</a></li>
           <li className='p-2'><a href="#contact">Contact</a></li>
